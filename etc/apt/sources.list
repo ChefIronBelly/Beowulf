@@ -1,0 +1,11 @@
+# 
+deb http://deb.devuan.org/merged beowulf main
+#deb http://mirrors.gigenet.com/debian/ buster main non-free
+#deb-src http://mirrors.gigenet.com/debian/ buster main
+
+deb http://deb.devuan.org/merged beowulf-security main
+#deb-src http://security.debian.org/debian-security buster/updates main
+
+# buster-updates, previously known as 'volatile'
+deb http://deb.devuan.org/merged beowulf-updates main
+#deb-src http://mirrors.gigenet.com/debian/ buster-updates main
