@@ -68,7 +68,7 @@ alias g='git'
 alias gc='git commit -m "adds and tweaks"'
 alias view='imlib2_view'
 alias grab='imlib2_grab'
-alias zzz=slock
+alias zzz='pm-suspend'
 alias mp3='youtube-dl -x --embed-thumbnail --audio-format mp3'
 
 PS1=""
